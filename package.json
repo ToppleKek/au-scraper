@@ -1,0 +1,12 @@
+{
+  "name": "au-scraper",
+  "version": "0.0.1",
+  "description": "Scrape course data from algomau.ca",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^20.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
